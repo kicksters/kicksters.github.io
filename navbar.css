@@ -36,10 +36,8 @@ code {
   font-size: 80%;
 }
 .mainImg{
-   width:400px;
+  width:400px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+  margin: 20px auto;
 }
 }
