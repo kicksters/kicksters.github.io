@@ -37,7 +37,8 @@ code {
 }
 .mainImg{
  width: 500px;
+ display: block;
  margin: 20px auto;
  padding: 50px;
 }
-}
+
