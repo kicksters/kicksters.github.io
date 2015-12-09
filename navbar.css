@@ -31,10 +31,9 @@
  margin-left: auto;
 }
 .video{
+ padding-top: 20px;
+ padding-bottom: 20px;
   text-align: center;
 }
-.txt{
- text-align: center;
- font-size: 22px;
-}
+
 
