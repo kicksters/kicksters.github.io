@@ -16,4 +16,16 @@
   padding-left: 15px;
 }
 
+.background{
+ padding-top: 30px;
+ padding-bottom: 30px;
+ margin-bottom: 30px;
+ 
+ background-color: #eee;
+ 
+}
+
+.txt{
+ text-align: center;
+}
 
