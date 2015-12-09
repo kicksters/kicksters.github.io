@@ -300,7 +300,8 @@ Full-Width Styles
 }
 
 #project_title {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
