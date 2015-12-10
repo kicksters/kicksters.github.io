@@ -136,7 +136,7 @@ strong {
 }
 
 img {
-  position: relative;
+  position: absolute;
   margin: auto;
   
   padding: 5px;
