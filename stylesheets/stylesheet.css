@@ -137,8 +137,8 @@ strong {
 
 img {
   display:block;
-  margin: auto;
-  
+  margin-left:auto;
+  margin-right:auto;
   padding: 5px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
